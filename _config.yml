@@ -1,25 +1,25 @@
 # Site settings
-title:
-email:
+title: "My Site"
+email: "yashjirbhar242gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "yashjain24.github.io" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
-facebook_username:
-twitter_username:
-github_username:
+owner: "Yash Jain"
+email: "yashjirbhar24@gmail.com
+facebook_username: "jain.yash.24"
+twitter_username: "yash__jain__"
+github_username: "yashjain24"
 address:
   - line:
   - line:
   # Feel free to add more lines here 
-telephone:
-copyright:
+telephone: "8192007320"
+copyright: "yashjain24"
 
 # API settings
 google_api_key:
